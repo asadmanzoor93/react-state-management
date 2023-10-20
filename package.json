@@ -3,10 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "json5": "^1.0.2",
+    "loader-utils": "^2.0.4",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
     "react-dom": "^16.13.1",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^5.0.1",
+    "webpack": "^5.76.1"
   },
   "scripts": {
     "start": "react-scripts start",
